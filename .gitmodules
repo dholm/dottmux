@@ -1,0 +1,4 @@
+[submodule ".tmux/vendor/tmux-colors-solarized"]
+	path = .tmux/vendor/tmux-colors-solarized
+	url = git://github.com/seebi/tmux-colors-solarized.git
+	branch = master
