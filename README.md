@@ -1,0 +1,4 @@
+dottmux
+=======
+
+My tmux configuration
