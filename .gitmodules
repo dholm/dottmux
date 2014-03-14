@@ -1,8 +1,8 @@
 [submodule ".tmux/vendor/tmux-colors-solarized"]
 	path = .tmux/vendor/tmux-colors-solarized
-	url = git://github.com/seebi/tmux-colors-solarized.git
+	url = https://github.com/seebi/tmux-colors-solarized.git
 	branch = master
 [submodule ".tmux/vendor/tmuxifier"]
 	path = .tmux/vendor/tmuxifier
-	url = git://github.com/jimeh/tmuxifier.git
+	url = https://github.com/jimeh/tmuxifier.git
 	branch = master
